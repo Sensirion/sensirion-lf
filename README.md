@@ -4,7 +4,7 @@
 
 This is an Arduino library for the Sensirion Liquid Flow sensors, based on the
 github snippet page at https://github.com/Sensirion/arduino-liquid-flow-snippets
-and the documentation on https://developer.sensirion.com/tutorials/arduino-interface-for-liquid-flow-sensors/ .
+and the documentation on https://developer.sensirion.com/archive/tutorials/arduino-interface-for-liquid-flow-sensors/ .
 
 ### Supported sensors
 Currently, the following sensors are supported:
